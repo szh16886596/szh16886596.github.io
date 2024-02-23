@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Hi! I'm Zehao Song"
 title_separator          : "-"
 name                     : &name "Zehao Song"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Zehao Song"
   avatar           : "../images/SZH Life.png"
   bio              : "M.S. Student in Tsinghua University"
-  location         : "Location"
+  location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=tiPhb2MAAAAJ&hl=zh-CN"
