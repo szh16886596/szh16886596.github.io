@@ -22,7 +22,14 @@ My research interests include power system optimization and control, decarboniza
 My CV is [here](../assets/Zehao_Song_CV.pdf).
 
 # Updates
-2024/02: Our paper entitled “Carbon-aware Peer to Peer Joint Energy and Reserve Trading Market for Prosumers in Distribution Networks” has been accepted by IEEE Internet of Things Journal.
+2024/02: Our paper entitled “Carbon-Aware Peer to Peer Joint Energy and Reserve Trading Market for Prosumers in Distribution Networks” has been accepted by IEEE Internet of Things Journal.
+
+2023/06: Our paper entitled [“Low-carbon Scheduling Strategy of Distributed Energy Resources Based on Node Carbon Intensity for Distribution Networks”](https://www.researchgate.net/publication/371968866_Low-carbon_Scheduling_Strategy_of_Distributed_Energy_Resources_Based_on_Node_Carbon_Intensity_for_Distribution_Networks?__cf_chl_rt_tk=n7KLodo6g9zKa6VT_xPf9.k8wlX6gWVhMf5vZ0COnvQ-1708670092-0.0-5053) has been accepted by High Voltage Engineering (EI Index, in Chinese).
+
+2023/02: Our paper entitled [“Network-Constrained Transactive Control for Multi-Microgrids-Based Distribution Networks With Soft Open Points”](https://ieeexplore.ieee.org/document/10048557) has been accepted by IEEE Transactions on Sustainable Energy.
+Remark. I completed the model formulation and numerical simulation (coding and programming) and paper revision in this work. The first author completed the organization of this paper.
+
+
 
 
 
