@@ -13,9 +13,14 @@ redirect_from:
 
 # About Me
 
-I'm currently pursing my Master of Science degree in Electrical Engineering at Tsinghua University.
+I'm currently pursing my Master of Science degree in Electrical Engineering at Tsinghua University, advised by Prof. [Yinliang Xu](https://www.tbsi.edu.cn/xyl_en/main.htm). 
+Before joining Tsinghua University, I obtained my B.S. degree in Electrical Engineering in 2022 from Zhejiang University of Technology, advised by Prof. Youbing Zhang.
 
-I'm now looking for 2025 Fall term PHD position.
+
+
+I am a PhD student at the University of Cambridge, Department of Engineering, supervised by Prof. Ioannis Lestas. My research interests include power system control and optimization, energy storage and electricity markets, and multi-energy systems. My CV is here.
+
+Before joining Cambridge, I obtained my MSc degree in Electrical Engineering in 2020 from Tsinghua University, supervised by Prof. Hongbin Sun. From 2020 to 2021, I was an admitted PhD student and remote research assistant at Columbia University advised by Prof. Bolun Xu, and worked as a research assistant in Tsinghua-UC Berkeley Shenzhen Institute, Tsinghua University, advised by Prof. Ye Guo.
 
 
 
