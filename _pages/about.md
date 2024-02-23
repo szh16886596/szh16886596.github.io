@@ -12,7 +12,9 @@ redirect_from:
 
 
 # About Me
-I'm currently pursing my Master of Science degree in Electrical Engineering at Tsinghua University. I'm expected to graduate in June, 2025 and I'm now looking for PHD position in 2025 fall term.
+I'm currently pursing my Master of Science degree in Electrical Engineering at Tsinghua University.
+
+I'm now looking for 2025 Fall term PHD position.
 
 
 
