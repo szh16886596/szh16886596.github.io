@@ -13,9 +13,7 @@ redirect_from:
 
 # About Me
 
-I'm currently pursing my Master of Science degree in Electrical Engineering at Tsinghua University, advised by Prof. [Yinliang Xu](https://www.tbsi.edu.cn/xyl_en/main.htm). 
-Before joining Tsinghua University, I obtained my B.S. degree in Electrical Engineering in 2022 from Zhejiang University of Technology, advised by Prof. Youbing Zhang.
-
+I'm currently pursing my Master of Science degree in Electrical Engineering at Tsinghua University, advised by Prof. [Yinliang Xu](https://www.tbsi.edu.cn/xyl_en/main.htm). My CV is [here](https://github.com/ZehaoSong00/ZehaoSong00.github.io/upload/master/assets/Zehao_Song_CV.pdf).
 
 
 I am a PhD student at the University of Cambridge, Department of Engineering, supervised by Prof. Ioannis Lestas. My research interests include power system control and optimization, energy storage and electricity markets, and multi-energy systems. My CV is here.
