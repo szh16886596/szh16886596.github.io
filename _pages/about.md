@@ -10,7 +10,6 @@ redirect_from:
 
 
 
-
 # About Me
 
 I'm currently pursing my Master of Science degree in Electrical Engineering at Tsinghua University, advised by Prof. [Yinliang Xu](https://www.tbsi.edu.cn/xyl_en/main.htm). 
