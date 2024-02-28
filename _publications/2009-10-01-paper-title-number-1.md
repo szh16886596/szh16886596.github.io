@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Carbon-Aware Peer-to-Peer Joint Energy and Reserve Trading Market for Prosumers in Distribution Networks"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper is about carbon-aware P2P trading for prosumers in distribution networks.'
+date: 2024-02-19
+venue: 'IEEE Internet of Things Journal'
+paperurl: 'https://ieeexplore.ieee.org/document/10440140'
+citation: 'Zehao Song, Yinliang Xu, Lun Yang, Hongbin Sun. "Carbon-aware Peer to Peer Joint Energy and Reserve Trading Market for Prosumers considering Network Security Constraints and Uncertainty," IEEE Internet of Things Journal, Early Access, Feb. 2024.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Zehao Song, Yinliang Xu, Lun Yang, Hongbin Sun. "Carbon-aware Peer to Peer Joint Energy and Reserve Trading Market for Prosumers considering Network Security Constraints and Uncertainty," IEEE Internet of Things Journal, Early Access, Feb. 2024.
