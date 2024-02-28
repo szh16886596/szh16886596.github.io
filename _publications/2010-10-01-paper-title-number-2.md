@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Network-Constrained Transactive Control for Multi-Microgrids-based Distribution Networks with Soft Open Points"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2023-02-17-IEEE-TSTE-Network-Constrained Transactive Control for Multi-Microgrids-based Distribution Networks with Soft Open Points
+excerpt: 'Different from most transactive control studies only focusing on economic aspect, this paper develops a novel network-constrained transactive control (NTC) framework that can address both economic and secure issues for a multi-microgrids-based distribution network considering uncertainties. In particular, we innovatively integrate a transactive energy market with the novel power-electronics device (i.e., soft open point) based AC power flow regulation technique to improve economic benefits for each individual microgrid and meanwhile ensure the voltage security of the entire distribution network. In this framework, a dynamic two-timescale NTC model consisting of slow-timescale pre-scheduling and real-time corrective scheduling stages is formulated to work against multiple system uncertainties. Moreover, the original bilevel game problems are transformed into a single-level mixed-integer second-order cone programming problem through KKT conditions, duality, linearization and relaxation techniques to avoid iterations of transitional methods, so as to improve the solving efficiency. Finally, numerical simulations on modified 33-bus and 123-bus test systems with multi-microgrids verify the effectiveness of the proposed framework.'
+date: 2023-02-17
+venue: 'IEEE Transactions on Sustainable Energy'
+paperurl: 'https://ieeexplore.ieee.org/document/10048557'
+citation: 'Xiaodong Yang, Zehao Song, Jinyu Wen, Lijian Ding, Menglin Zhang, Qiuwei Wu, Shijie Cheng. "Network-Constrained Transactive Control for Multi-Microgrids-Based Distribution Networks With Soft Open Points," in IEEE Transactions on Sustainable Energy, vol. 14, no. 3, pp. 1769-1783, July 2023.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Abstract: Different from most transactive control studies only focusing on economic aspect, this paper develops a novel network-constrained transactive control (NTC) framework that can address both economic and secure issues for a multi-microgrids-based distribution network considering uncertainties. In particular, we innovatively integrate a transactive energy market with the novel power-electronics device (i.e., soft open point) based AC power flow regulation technique to improve economic benefits for each individual microgrid and meanwhile ensure the voltage security of the entire distribution network. In this framework, a dynamic two-timescale NTC model consisting of slow-timescale pre-scheduling and real-time corrective scheduling stages is formulated to work against multiple system uncertainties. Moreover, the original bilevel game problems are transformed into a single-level mixed-integer second-order cone programming problem through KKT conditions, duality, linearization and relaxation techniques to avoid iterations of transitional methods, so as to improve the solving efficiency. Finally, numerical simulations on modified 33-bus and 123-bus test systems with multi-microgrids verify the effectiveness of the proposed framework.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](_publications/New-Network-Constrained_Transactive_Control_for_Multi-Microgrids-based_Distribution_Networks_with_Soft_Open_Points.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Xiaodong Yang, Zehao Song, Jinyu Wen, Lijian Ding, Menglin Zhang, Qiuwei Wu, Shijie Cheng. "Network-Constrained Transactive Control for Multi-Microgrids-Based Distribution Networks With Soft Open Points," in \emph{IEEE Transactions on Sustainable Energy}, vol. 14, no. 3, pp. 1769-1783, July 2023.
