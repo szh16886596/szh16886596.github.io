@@ -1,7 +1,7 @@
 ---
 title: "Carbon-Aware Peer-to-Peer Joint Energy and Reserve Trading Market for Prosumers in Distribution Networks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Carbon-Aware P2P Trading
 excerpt: 'This paper is about carbon-aware P2P trading for prosumers in distribution networks.'
 date: 2024-02-19
 venue: 'IEEE Internet of Things Journal'
