@@ -21,6 +21,10 @@ My research interests include power system optimization and control, decarboniza
 My CV is [here](../assets/Zehao_Song_CV.pdf).
 
 # Updates
+
+# Updates
+2024/05: Our paper entitled [“Low‐carbon demand response program for power systems considering uncertainty based on the data‐driven distributionally robust chance constrained optimization”](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/rpg2.13021) has been accepted by IET Renewable Power Generation. DOI: 10.1049/rpg2.13021.
+
 2024/02: Our paper entitled [“Carbon-Aware Peer to Peer Joint Energy and Reserve Trading Market for Prosumers in Distribution Networks”](https://ieeexplore.ieee.org/document/10440140) has been accepted by IEEE Internet of Things Journal. DOI: 10.1109/JIOT.2024.3367361.
 
 2023/06: Our paper entitled [“Low-carbon Scheduling Strategy of Distributed Energy Resources Based on Node Carbon Intensity for Distribution Networks”](https://www.researchgate.net/publication/371968866_Low-carbon_Scheduling_Strategy_of_Distributed_Energy_Resources_Based_on_Node_Carbon_Intensity_for_Distribution_Networks?__cf_chl_rt_tk=n7KLodo6g9zKa6VT_xPf9.k8wlX6gWVhMf5vZ0COnvQ-1708670092-0.0-5053) has been accepted by High Voltage Engineering (EI Index, in Chinese), June, 2023, 49(06):2318-2328. DOI:10.13336/j.1003-6520.HVE.20230216.
